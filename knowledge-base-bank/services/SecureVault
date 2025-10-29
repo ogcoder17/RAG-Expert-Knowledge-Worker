@@ -1,0 +1,16 @@
+# Service Summary
+## SecureVault
+
+### Summary
+SecureVault is Finovia’s enterprise-grade cybersecurity and digital asset protection system.
+It ensures every financial transaction and stored data is encrypted and monitored for fraud.
+
+### Features
+- **End-to-End Encryption:** AES-256 standard encryption across all data points.
+- **Fraud Detection Engine:** AI-based system flags anomalies in real-time.
+- **Cloud Backup:** Secure offsite data replication for business continuity.
+- **Regulatory Compliance:** Adheres to PCI DSS, SOC 2, and GDPR standards.
+
+### Pricing
+**Starter Plan:** $500/month – ideal for startups.  
+**Enterprise Plan:** Custom pricing for institutions needing full-scale infrastructure.
